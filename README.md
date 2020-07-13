@@ -10,7 +10,7 @@ I am Masrur Sakib. I am a passionate frontend developer who loves to develop pro
 "Back-end": ["Node.js", "Express.js", "MongoDB", "Heroku"],
 "CMS": ["WordPress", "Shopify"],
 "Hosting": ["Siteground", "Firebase", "Netlify"],
-"Tools": ["Git", "Github", "Chrome DevTools", "Mailchimp", "Adobe Photoshop", "Adobe Illustrator", "Slack", "VS Code", "Sublime Text"]
+"Tools": ["Git", "Github", "Chrome DevTools", "Mailchimp", "Adobe Photoshop", "Adobe Illustrator", "Slack", "VS Code"]
 }
 
 - 📫 Feel free to contact me directly at mashrur333@gmail.com
