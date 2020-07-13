@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**masrur-sakib/masrur-sakib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Masrur Sakib. I am a passionate frontend developer who loves to develop professional websites. Currently, I have been working with modern technologies like JavaScript, React.js, Vue.js, Node.js, Express.js, MongoDB, WordPress, WordPress Theme Developemnt. I enjoy solving problems and working in a team. 
 
-Here are some ideas to get you started:
+<h3>Skills</h3>
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+```js
+{
+"Front-end": ["JavaScript", "ES6", "React", "React Router", "HTML", "CSS", "Bootstrap", "Material UI"],
+"Back-end": ["Node.js", "Express.js", "MongoDB", "Heroku"],
+"CMS": ["WordPress", "Shopify"],
+"Hosting": ["Siteground", "Firebase", "Netlify"],
+"Tools": ["Git", "Github", "Chrome DevTools", "Mailchimp", "Adobe Photoshop", "Adobe Illustrator", "Slack", "VS Code", "Sublime Text"]
+}
+
+- 📫 Feel free to contact me directly at mashrur333@gmail.com
+- 🔭Check out some of my recent works/projects at https://masrursakib.site/
+- ⚡Connect with me on LinedIn at https://linkedin.com/in/masrur-sakib/
+
 -->
