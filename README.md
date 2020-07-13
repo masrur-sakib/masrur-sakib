@@ -2,8 +2,7 @@
 
 I am Masrur Sakib. I am a passionate frontend developer who loves to develop professional websites. Currently, I have been working with modern technologies like JavaScript, React.js, Vue.js, Node.js, Express.js, MongoDB, WordPress, WordPress Theme Developemnt. I enjoy solving problems and working in a team. 
 
-<h3>Skills</h3>
-<hr>
+### My Skills
 
 ```js
 {
