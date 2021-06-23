@@ -6,7 +6,7 @@ I am a passionate Full Stack developer who loves to work in a team to build amaz
 - 🔭Check out some of my recent works/projects at https://msakib.com/
 - ⚡Connect with me on LinedIn at https://linkedin.com/in/masrur-sakib/
 
-### My Skills
+### My Skills:
 
 ```js
 {
@@ -19,7 +19,7 @@ I am a passionate Full Stack developer who loves to work in a team to build amaz
 
 ```
 
-### My Top Projects
+### My Top Projects:
 
 <p style="color:grey;">[Note: Please check out the repository description for project live site link.]</p>
 
@@ -31,16 +31,16 @@ I am a passionate Full Stack developer who loves to work in a team to build amaz
 - [vue.js-to-do-list-app](https://github.com/masrur-sakib/vue.js-to-do-list-app)
 - [react-redux-ecommerce-sylhet-shop](https://github.com/masrur-sakib/react-redux-ecommerce-sylhet-shop-application)
 
-### GitHub Stats
+### GitHub Stats:
 
 <img width="500px" alt="ms-github-stats"  src="https://github-readme-stats.vercel.app/api?username=masrur-sakib&show_icons=true"/>
 
-### GitHub Streak Stats
+### GitHub Streak Stats:
 <img align="center" alt="masrur-sakib-streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=masrur-sakib&" />
 
 ---
 
-### GitHub Profile Visitors
+### GitHub Profile Visitors:
 
 <p align="center">
   <img align="center" alt="masrur-sakib-github-visitor" width="50%" src="https://profile-counter.glitch.me/masrur-sakib/count.svg" />
