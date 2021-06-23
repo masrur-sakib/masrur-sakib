@@ -13,7 +13,7 @@ I am a passionate Full Stack developer who loves to work in a team to build amaz
 "Front-end": ["JavaScript", "React.js", "React Hooks & Router", "Redux", "Vue.js", "Vuex", "HTML", "CSS", "Saas" "Bootstrap", "Material UI"],
 "Back-end": ["Node.js", "Express.js", "MongoDB", "SQL", ""REST API", "GraphQL", Heroku"],
 "CMS": ["WordPress"],
-"Tools": ["Git", "Github", "Chrome DevTools", "Elementor Page Builder", "Adobe Photoshop", "Adobe Illustrator", "Microsoft Office", "Slack", "VS Code", "Trello", "Zira", "Asana"]
+"Tools": ["Git", "Github", "Chrome DevTools", "Linux-Ubuntu", "Elementor Page Builder", "Adobe Photoshop", "Adobe Illustrator", "Microsoft Office", "Slack", "VS Code", "Trello", "Zira", "Asana"]
 }
 
 
