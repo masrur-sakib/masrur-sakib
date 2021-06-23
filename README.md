@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a passionate Full Stack developer who loves to work in a team to build amazing products. Currently, I have been working with modern technologies like JavaScript, React.js, Node.js, Express.js, MongoDB, Vue.js, API Development, GraphQL. I continuously learn new technologies and keep myself up to date with industry advancements. I enjoy solving problems and working in a team.
+I am a passionate Full Stack developer who loves to work in a team to build amazing products. Currently, I have been working with modern technologies like JavaScript, React.js, Node.js, Express.js, MongoDB, Vue.js, REST API Development, GraphQL. I continuously learn new technologies and keep myself up to date with industry advancements. I enjoy solving problems and working in a team.
 
 - 📫 Feel free to contact me directly at mashrur333@gmail.com
 - 🔭Check out some of my recent works/projects at https://msakib.com/
