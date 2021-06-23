@@ -30,7 +30,6 @@ I am a passionate Full Stack developer who loves to work in a team to build amaz
 - [countries-api-react-application](https://github.com/masrur-sakib/countries-api-react-application)
 - [vue.js-to-do-list-app](https://github.com/masrur-sakib/vue.js-to-do-list-app)
 - [react-redux-ecommerce-sylhet-shop](https://github.com/masrur-sakib/react-redux-ecommerce-sylhet-shop-application)
-- [countries-api-react-application](https://github.com/masrur-sakib/countries-api-react-application)
 
 ### GitHub Stats
 
