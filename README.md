@@ -24,7 +24,7 @@ I am a passionate Full Stack developer who loves to work in a team to build amaz
 <p style="color:grey;">[Note: Please check out the repository description for project live site link.]</p>
 
 - [react.js-ecommerce-website](https://github.com/masrur-sakib/react.js-ecommerce-website)
-- [react-redux-aircnc](https://github.com/masrur-sakib/react-redux-aircnc)
+- [react-redux-aircnc-hotel-booking-app](https://github.com/masrur-sakib/react-redux-aircnc-hotel-booking-app)
 - [github-api-project-with-react.js](https://github.com/masrur-sakib/github-api-project-with-react.js)
 - [react-typescript-quiz-app](https://github.com/masrur-sakib/react-typescript-quiz-app)
 - [countries-api-react-application](https://github.com/masrur-sakib/countries-api-react-application)
