@@ -8,9 +8,9 @@ I am a passionate Full Stack developer who loves to work in a team to build amaz
 
 ### My Top Skills:
 
-- ***Front-end:*** JavaScript, TypeScript, React.js, Redux, Next.js, HTML, CSS, Bootstrap, Tailwind
-- ***Back-end:*** Node.js, Express.js, MongoDB, Mongoose, REST API, GraphQL, Firebase, Heroku
-- ***Tools:*** Git, Github, Chrome DevTools, Linux-Ubuntu, Slack, VS Code, Trello, Zira, Asana
+- ***Front-end:*** JavaScript, TypeScript, React.js, Redux, Next.js, HTML, CSS, Bootstrap, Tailwind.
+- ***Back-end:*** Node.js, Express.js, MongoDB, Mongoose, REST API, GraphQL, Firebase, Heroku.
+- ***Tools:*** Git, Github, Chrome DevTools, Linux-Ubuntu, Slack, VS Code, Trello, Zira, Asana.
 
 
 ### My Top Projects:
