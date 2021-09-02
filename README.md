@@ -6,7 +6,7 @@ I am a passionate Full Stack developer. I specialize in JavaScript and have prof
 - 🔭Check out some of my recent works/projects at https://msakib.com/
 - ⚡Connect with me on LinedIn at https://linkedin.com/in/masrur-sakib/
 
-### My Top Skills:
+### My Skills:
 
 - ***Front-end:*** JavaScript, TypeScript, React.js, Redux, Next.js, HTML, CSS, Bootstrap, Tailwind.
 - ***Back-end:*** Node.js, Express.js, MongoDB, Mongoose, REST API, GraphQL, Firebase, Heroku.
