@@ -8,9 +8,9 @@ I am a passionate Full Stack developer. I specialize in JavaScript and have prof
 
 ### My Skills:
 
-- ***Front-end:*** JavaScript, TypeScript, React.js, Redux, Next.js, HTML, CSS, Bootstrap, Tailwind.
-- ***Back-end:*** Node.js, Express.js, MongoDB, Mongoose, REST API, GraphQL, Firebase, Heroku.
-- ***Tools:*** Git, Github, Chrome DevTools, Linux-Ubuntu, Slack, VS Code, Trello, Zira, Asana.
+- **Front-end:** JavaScript, TypeScript, React.js, Redux, Next.js, HTML, CSS, Bootstrap, Tailwind.
+- **Back-end:** Node.js, Express.js, MongoDB, Mongoose, REST API, GraphQL, Firebase, Heroku.
+- **Tools:** Git, Github, Chrome DevTools, Linux-Ubuntu, Slack, VS Code, Trello, Zira, Asana.
 
 
 ### My Top Projects:
