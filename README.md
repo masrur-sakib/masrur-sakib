@@ -6,20 +6,20 @@ I am a passionate Full Stack developer who loves to work in a team to build amaz
 - 🔭Check out some of my recent works/projects at https://msakib.com/
 - ⚡Connect with me on LinedIn at https://linkedin.com/in/masrur-sakib/
 
-### My Skills:
+### My Top Skills:
 
-```js
-"Front-end": ["JavaScript", "TypeScript", "React.js", "Redux", "HTML", "CSS", "Saas" "Bootstrap", "Material UI"],
-"Back-end": ["Node.js", "Express.js", "MongoDB", "REST API", "GraphQL", "Firebase", "Heroku"],
-"Tools": ["Git", "Github", "Chrome DevTools", "Linux-Ubuntu", "Slack", "VS Code", "Trello", "Zira", "Asana"]
-```
+- ***Front-end:*** JavaScript, TypeScript, React.js, Redux, Next.js, HTML, CSS, Bootstrap, Tailwind
+- ***Back-end:*** Node.js, Express.js, MongoDB, Mongoose, REST API, GraphQL, Firebase, Heroku
+- ***Tools:*** Git, Github, Chrome DevTools, Linux-Ubuntu, Slack, VS Code, Trello, Zira, Asana
+
 
 ### My Top Projects:
 
 <p style="color:grey;">[Note: Please check out the repository description for project live site link.]</p>
 
-- [react.js-ecommerce-website](https://github.com/masrur-sakib/react.js-ecommerce-website)
+- [fullstack-ecommerce-project](https://github.com/masrur-sakib/fullstack-ecommerce-project)
 - [react-redux-aircnc-hotel-booking-app](https://github.com/masrur-sakib/react-redux-aircnc-hotel-booking-app)
+- [fullstack-photography-project](https://github.com/masrur-sakib/fullstack-photography-project)
 - [github-api-project-with-react.js](https://github.com/masrur-sakib/github-api-project-with-react.js)
 - [react-typescript-quiz-app](https://github.com/masrur-sakib/react-typescript-quiz-app)
 - [countries-api-react-application](https://github.com/masrur-sakib/countries-api-react-application)
