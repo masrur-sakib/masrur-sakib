@@ -9,13 +9,9 @@ I am a passionate Full Stack developer who loves to work in a team to build amaz
 ### My Skills:
 
 ```js
-{
 "Front-end": ["JavaScript", "TypeScript", "React.js", "Redux", "HTML", "CSS", "Saas" "Bootstrap", "Material UI"],
 "Back-end": ["Node.js", "Express.js", "MongoDB", "REST API", "GraphQL", "Firebase", "Heroku"],
 "Tools": ["Git", "Github", "Chrome DevTools", "Linux-Ubuntu", "Slack", "VS Code", "Trello", "Zira", "Asana"]
-}
-
-
 ```
 
 ### My Top Projects:
