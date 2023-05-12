@@ -18,7 +18,7 @@ I am a passionate Full Stack developer. I specialize in JavaScript and have prof
 <p style="color:grey;">[Note: Please check out the repository description for project live site link.]</p>
 
 - [react-redux-aircnc-hotel-booking-app](https://github.com/masrur-sakib/react-redux-aircnc-hotel-booking-app)
-- [fullstack-ecommerce-project](https://github.com/masrur-sakib/fullstack-ecommerce-project)
+- [realtime-chat-backend-application](https://github.com/masrur-sakib/fullstack-realtime-chat-application)
 - [spacex-project](https://github.com/masrur-sakib/spacex)
 - [fullstack-photography-project](https://github.com/masrur-sakib/fullstack-photography-project)
 - [github-api-project-with-react.js](https://github.com/masrur-sakib/github-api-project-with-react.js)
